@@ -155,7 +155,7 @@ export default function App() {
 
       <footer className="footer">
         <a className="brand footer-brand" href="#"><span className="brand-mark">✦</span> VGWD</a>
-        <span>Built with care. Improved by your feedback.</span>
+        <span>Vamsi Group of Web Development</span>
       </footer>
 
       {formOpen && (
