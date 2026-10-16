@@ -68,13 +68,14 @@ export default function App() {
   return (
     <main className="site-shell">
       <nav className="topbar">
-        <a className="brand" href="#">
+        <a className="brand" href="https://vgwd.vercel.app/">
           <span className="brand-mark">✦</span> VGWD
-          <span className="brand-tag">REVIEWS</span>
+          <span className="brand-tag ml-1">Visit Site</span>
         </a>
         <button className="nav-review-btn" onClick={() => setFormOpen(true)}>
           <Plus size={17} /> Add Review
         </button>
+         
       </nav>
 
       <section className="hero">
